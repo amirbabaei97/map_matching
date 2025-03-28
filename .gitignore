@@ -1,0 +1,11 @@
+#environment variables
+.env
+
+#Virtual env
+.map_matching
+
+#input files
+data
+
+#output files
+output
